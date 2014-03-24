@@ -1,0 +1,3 @@
+/bin/ls -l /usr/include
+/bin/ls
+/bin/mkdir xaxa
